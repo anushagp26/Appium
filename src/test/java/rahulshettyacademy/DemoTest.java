@@ -38,7 +38,7 @@ public class DemoTest {
 		    System.out.println("not");
 		}
 		    
-		 
+		 System.out.print("anusha"); 
 	}
 
 }
