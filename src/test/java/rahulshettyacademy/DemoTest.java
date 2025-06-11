@@ -42,8 +42,13 @@ public class DemoTest {
 		 System.out.print("anusha"); 
 
 		System.out.println("not1111");
+<<<<<<< HEAD
 		
 		System.out.println("Rushika");
+=======
+		System.out.println("not1111214584");
+		
+>>>>>>> a24c6a902a8924079ef203ae0f798ee3d3d82ead
 
 	}
 
